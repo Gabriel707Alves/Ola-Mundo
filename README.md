@@ -3,4 +3,4 @@ Primeiro repositório do curso de GIT e GitHub
 
 Repositório criado durante uma aula ao vivo!
 
-Essa linha eu adicionei diretamente no site, que daora kkkk
+Essa linha eu adicionei diretamente no site, que legal!
